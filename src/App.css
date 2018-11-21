@@ -16,6 +16,11 @@ button#app-list {
   color: #fff;
   font-size: 23px;
   border-color: #000;
+  padding-top: 5px;
+}
+
+button:focus {
+  outline: none;
 }
 
 .app-title {
